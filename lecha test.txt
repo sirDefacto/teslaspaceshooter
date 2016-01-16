@@ -4,3 +4,6 @@ This is our first commit.
 if you see this
 then this is working
 else teslaa!
+
+Dule pise: kako ovo jebeno sranje radi? xD
+Pozz!
